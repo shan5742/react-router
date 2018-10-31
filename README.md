@@ -13,3 +13,7 @@ In this app I have used the `Link to` tag, the `NavLink` tag and the `Switch` ta
 ### Axios
 
 I have decided to use placeholder.JSON and axios to get some mock data onto the page, again this won't be styled or anything relevant, just to show the process.
+
+## Future Work
+
+Right now the entirety of this site, other than image and simple headings is just placeholder stuff, but I would like to make this site have some kind of Mario theme at some point, so I have some titles/images alluding to that.
