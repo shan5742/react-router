@@ -8,7 +8,7 @@ class Home extends Component {
   componentDidMount() {
     axios.get("https://jsonplaceholder.typicode.com/posts").then(res => {
       this.setState({
-        psts: res.data.slice(0, 10)
+        posts: res.data.slice(0, 10)
       });
     });
   }
