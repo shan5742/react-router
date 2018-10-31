@@ -8,13 +8,13 @@ const Navbar = () => {
         <a className="brand-logo">Mario World</a>
         <ul className="right">
           <li>
-            <Link to="/">Home</Link>
+            <NavLink to="/">Home</NavLink>
           </li>
           <li>
-            <Link to="/About">About</Link>
+            <NavLink to="/About">About</NavLink>
           </li>
           <li>
-            <Link to="/Contact">Contact</Link>
+            <NavLink to="/Contact">Contact</NavLink>
           </li>
         </ul>
       </div>
